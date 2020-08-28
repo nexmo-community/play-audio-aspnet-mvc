@@ -7,10 +7,10 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using PlayAudioMvc.Models;
 using Microsoft.Extensions.Configuration;
-using Nexmo.Api.Voice.Nccos.Endpoints;
-using Nexmo.Api.Voice.Nccos;
-using Nexmo.Api.Voice;
-using Nexmo.Api.Request;
+using Vonage.Voice.Nccos.Endpoints;
+using Vonage.Voice.Nccos;
+using Vonage.Voice;
+using Vonage.Request;
 
 namespace PlayAudioMvc.Controllers
 {

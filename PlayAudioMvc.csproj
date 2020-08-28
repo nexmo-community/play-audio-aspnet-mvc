@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="nexmo.csharp.client" Version="5.1.0" />
+    <PackageReference Include="Vonage" Version="0.1.0" />
   </ItemGroup>
 
 </Project>
